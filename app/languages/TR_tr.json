@@ -1,0 +1,12 @@
+{
+    "BOOT_CREATE_FILES": "Ön yükleme dosyaları oluşturuluyor...",
+    "CHECKING_VERSION": "Versiyon kontrolü yapılıyor...",
+    "SERVER_NOT_CONNECTED": "Sunucu ile bağlantı kurulamadı.",
+    "SERVER_CONFIGURATION_INVALID": "Sunucu yapılandırmasında bir sorun mevcut.",
+    "SERVER_CHECKING_UDPATE_ERR": "Versiyon kontrolü yapılırken bir sorun oluştu.",
+    "APP_FILE_READING": "Uygulama dosyası okunuyor...",
+    "APP_FILE_ERROR": "Uygulama dosyası okunamadı.",
+    "AUTHOR": "Yapımcı",
+    "PROCESS_ERROR": "İşlem Başarısız!",
+    "PROCESS_SUCCESS": "İşlem Başarılı!",
+}
