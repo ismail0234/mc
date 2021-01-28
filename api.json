@@ -1,4 +1,21 @@
 {
-	  "status"   : true, 
-	  "version"  : "2.0.0"
+    "status": true,
+    "version": "2.0.0",
+    "Assets": [
+    {
+        "Name": "assets/images/kizumonogatari.gif",
+        "Url": "https://raw.githubusercontent.com/ismail0234/mc/main/app/assets/images/kizumonogatari.gif"
+    },
+    {
+        "Name": "assets/images/slider1.png",
+        "Url": "https://raw.githubusercontent.com/ismail0234/mc/main/app/assets/images/slider1.png"
+    },
+    {
+        "Name": "assets/images/slider2.png",
+        "Url": "https://raw.githubusercontent.com/ismail0234/mc/main/app/assets/images/slider2.png"
+    },
+    {
+        "Name": "assets/images/slider3.png",
+        "Url": "https://raw.githubusercontent.com/ismail0234/mc/main/app/assets/images/slider3.png"
+    }]
 }
