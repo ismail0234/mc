@@ -8,6 +8,7 @@
     "APP_FILE_READING": "Uygulama dosyası okunuyor...",
     "APP_FILE_ERROR": "Uygulama dosyası okunamadı.",
     "OPENING_LAUNCHER": "Uygulama Açılıyor...",    
+    "LOGIN_EMPTY_FIELDS": "Kullanıcı adınızı veya şifrenizi boş bırakmayın!",
     "AUTHOR": "Yapımcı",
     "PROCESS_ERROR": "İşlem Başarısız!",
     "PROCESS_SUCCESS": "İşlem Başarılı!",
