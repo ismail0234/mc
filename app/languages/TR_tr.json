@@ -10,6 +10,8 @@
     "OPENING_LAUNCHER": "Uygulama Açılıyor...",    
     "LOGIN_EMPTY_FIELDS": "Kullanıcı adınızı veya şifrenizi boş bırakmayın!",
     "REMOTE_SERVER_ERROR": "Sunucuda bir sorun oluştu. \n\nLütfen tekrar deneyiniz.",
+    "PLEASE_WAIT": "Lütfen Bekleyiniz...",
+    "LOGIN_ACCOUNT": "Giriş Yap",
     "AUTHOR": "Yapımcı",
     "PROCESS_ERROR": "İşlem Başarısız!",
     "PROCESS_SUCCESS": "İşlem Başarılı!",
