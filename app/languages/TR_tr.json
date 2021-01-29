@@ -4,6 +4,7 @@
     "SERVER_NOT_CONNECTED": "Sunucu ile bağlantı kurulamadı.",
     "SERVER_CONFIGURATION_INVALID": "Sunucu yapılandırmasında bir sorun mevcut.",
     "SERVER_CHECKING_UDPATE_ERR": "Versiyon kontrolü yapılırken bir sorun oluştu.",
+    "DOWNLOAD_ERROR_FILE": "Uygulama güncelleme işleme başarısız. Destek için discord sunucumuza katılabilirsiniz; https://discord.gg/cmdZYuc",
     "APP_FILE_READING": "Uygulama dosyası okunuyor...",
     "APP_FILE_ERROR": "Uygulama dosyası okunamadı.",
     "OPENING_LAUNCHER": "Uygulama Açılıyor...",    
