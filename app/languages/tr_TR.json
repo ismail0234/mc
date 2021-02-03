@@ -33,4 +33,11 @@
     "PROCESS_SUCCESS": "İşlem Başarılı!",
     "USER_NOT_FOUND": "Hesabınız bulunamadı.",
     "PASSWORD_WRONG": "Şifreniz Hatalı.",
+    "INVALID_USERNAME_LENGTH": "Kullanıcı adınız en fazla 30 karakter olabilir.",
+    "INVALID_ALL_FIELDS": "Bilgiler geçersiz.",
+    "INVALID_EMAIL": "Email adresi geçersiz.",
+    "INVALID_USERNAME": "Lütfen geçerli bir kullanıcı adı giriniz. İngilizce karakterler kullanın ve boşluk kullanmayın.",
+    "USERNAME_IS_TAKEN": "Girmiş olduğunuz kullanıcı adı kullanımdadır.",
+    "EMAIL_IS_TAKEN": "'Girmiş olduğunuz Email adresi kullanımdadır.",
+    "REGISTER_ERROR": "Hesabınız oluşturulurken teknik bir sorun meydana geldi.",
 }
