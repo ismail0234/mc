@@ -31,4 +31,6 @@
     "AUTHOR": "Yapımcı",
     "PROCESS_ERROR": "İşlem Başarısız!",
     "PROCESS_SUCCESS": "İşlem Başarılı!",
+    "USER_NOT_FOUND": "Hesabınız bulunamadı.",
+    "PASSWORD_WRONG": "Şifreniz Hatalı.",
 }
