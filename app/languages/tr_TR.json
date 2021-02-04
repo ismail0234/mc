@@ -46,4 +46,6 @@
     "PASSWORD_RESET_CODE_NOT_FOUND": "Doğrulama kodu geçersiz",
     "PASSWORD_RESET_SUCCESS": "Şifreniz başarıyla değiştirilmiştir.",
     "PASSWORD_RESET_ERROR": "Şifreniz değiştirme işleminiz başarısız.",
+    "PLAY": "Oyna",
+    "OPENING_GAME": "Oyun Açılıyor...",
 }
