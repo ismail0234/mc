@@ -41,5 +41,8 @@
     "EMAIL_IS_TAKEN": "'Girmiş olduğunuz Email adresi kullanımdadır.",
     "REGISTER_ERROR": "Hesabınız oluşturulurken teknik bir sorun meydana geldi.",
     "FORGOTTEN_PASSWORD_EMAIL_SUCCESS": "Şifre sıfırlama için kullanacağınız doğrulama kodunuz email adresinize gönderilmiştir.",
-    "FORGOTTEN_PASSWORD_EMAIL_ERROR": "Şifre sıfırlama bağlantısı gönderilirken hata oluştu. Geçerli bir email adresine sahip olduğunuza emin misiniz?",    
+    "FORGOTTEN_PASSWORD_EMAIL_ERROR": "Şifre sıfırlama bağlantısı gönderilirken hata oluştu. Geçerli bir email adresine sahip olduğunuza emin misiniz?", 
+    "PASSWORD_RESET_CODE_NOT_FOUND": "Doğrulama kodu geçersiz",
+    "PASSWORD_RESET_SUCCESS": "Şifreniz başarıyla değiştirilmiştir.",
+    "PASSWORD_RESET_ERROR": "Şifreniz değiştirme işleminiz başarısız.",
 }
