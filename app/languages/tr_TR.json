@@ -7,6 +7,7 @@
     "DOWNLOAD_ERROR_FILE": "Uygulama güncelleme işleme başarısız. Destek için discord sunucumuza katılabilirsiniz; https://discord.gg/cmdZYuc",
     "APP_FILE_READING": "Uygulama dosyası okunuyor...",
     "APP_FILE_ERROR": "Uygulama dosyası okunamadı.",
+    "ASSETS_FILE_DOWNLOADING": "Varlıklar indiriliyor...",
     "OPENING_LAUNCHER": "Uygulama Açılıyor...",    
     "LOGIN_EMPTY_FIELDS": "Kullanıcı adınızı veya şifrenizi boş bırakmayın!",
     "REMOTE_SERVER_ERROR": "Sunucuda bir sorun oluştu. \n\nLütfen tekrar deneyiniz.",
