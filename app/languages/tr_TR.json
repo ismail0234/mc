@@ -48,4 +48,5 @@
     "PASSWORD_RESET_ERROR": "Şifreniz değiştirme işleminiz başarısız.",
     "PLAY": "Oyna",
     "OPENING_GAME": "Oyun Açılıyor",
+    "DOWNLOADING_FILE_CONTENT": "{name} İndiriliyor",
 }
