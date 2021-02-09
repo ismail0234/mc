@@ -52,6 +52,6 @@
     "JAVA": "Java",
     "MINECRAFT": "Minecraft",
     "DISCORD_STATUS_LOGIN": "Giriş Yapıyor",
-    "DISCORD_STATUS_REGISTER": "Kayıt Oluyor",
+    "DISCORD_STATUS_REGISTER": "Hesap Oluşturuyor",
     "DISCORD_STATUS_PASSWORD_RESET": "Şifre Sıfırlıyor",
 }
