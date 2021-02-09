@@ -51,4 +51,7 @@
     "DOWNLOADING_FILE_CONTENT": "{name} indiriliyor",
     "JAVA": "Java",
     "MINECRAFT": "Minecraft",
+    "DISCORD_STATUS_LOGIN": "Giriş Yapıyor",
+    "DISCORD_STATUS_REGISTER": "Kayıt Oluyor",
+    "DISCORD_STATUS_PASSWORD_RESET": "Şifre Sıfırlıyor",
 }
