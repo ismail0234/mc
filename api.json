@@ -11,14 +11,6 @@
     {
         "Path": "slider1.png",
         "Url": "https://raw.githubusercontent.com/ismail0234/mc/main/app/assets/images/slider1.png"
-    },
-    {
-        "Path": "slider2.png",
-        "Url": "https://raw.githubusercontent.com/ismail0234/mc/main/app/assets/images/slider2.png"
-    },
-    {
-        "Path": "slider3.png",
-        "Url": "https://raw.githubusercontent.com/ismail0234/mc/main/app/assets/images/slider3.png"
     }],
     "GameVersions": {
 	"1.16.5": "1.16.5",
