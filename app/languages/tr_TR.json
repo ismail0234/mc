@@ -56,4 +56,6 @@
     "DISCORD_STATUS_PASSWORD_RESET": "Şifre Sıfırlıyor",
     "DISCORD_STATUS_UPDATE_LAUNCHER": "Launcher Güncelleniyor",
     "DISCORD_STATUS_MAIN_MENU": "Ana Menüde",
+    "DISCORD_STATUS_MINECRAFT_DOWNLOADING": "Minecraft {version} İndiriyor",
+    "DISCORD_STATUS_MINECRAFT_PLAYING": "Minecraft {version} Oynuyor",
 }
