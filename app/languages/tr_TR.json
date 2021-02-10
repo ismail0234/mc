@@ -58,4 +58,5 @@
     "DISCORD_STATUS_MAIN_MENU": "Ana Menüde",
     "DISCORD_STATUS_MINECRAFT_DOWNLOADING": "Minecraft {version} İndiriyor",
     "DISCORD_STATUS_MINECRAFT_PLAYING": "Minecraft {version} Oynuyor",
+    "CHECKING_CONTROLS": "Kontroller Yapılıyor",
 }
