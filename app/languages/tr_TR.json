@@ -59,4 +59,6 @@
     "DISCORD_STATUS_MINECRAFT_DOWNLOADING": "Minecraft {version} İndiriyor",
     "DISCORD_STATUS_MINECRAFT_PLAYING": "Minecraft {version} Oynuyor",
     "CHECKING_CONTROLS": "Kontroller Yapılıyor",
+    "LAUNCHER_DOWNLOADING": "Launcher v{version} indiriliyor...",
+    "LAUNCHER_INSTALLING": "Launcher v{version} yükleniyor...",
 }
