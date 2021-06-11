@@ -62,4 +62,6 @@
     "LAUNCHER_DOWNLOADING": "Launcher v{version} indiriliyor...",
     "LAUNCHER_INSTALLING": "Launcher v{version} yükleniyor...",
     "SERVER_CREATE_EMPTY_NAME": "Sunucu adını boş bırakmayın.",
+    "TRAY_BALLON_TITLE": "BOT Benson MC Launcher",
+    "TRAY_BALLON_TEXT": "Launcher Arkaplana Alındı.",
 }
