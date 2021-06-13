@@ -61,5 +61,5 @@
     "CHECKING_CONTROLS": "Kontroller Yapılıyor",
     "LAUNCHER_DOWNLOADING": "Launcher v{version} indiriliyor...",
     "LAUNCHER_INSTALLING": "Launcher v{version} yükleniyor...",
-    "SERVER_CREATE_EMPTY_NAME": "Sunucu adını boş bırakmayın.",
+    "SERVER_CREATE_EMPTY_NAME": "Sunucu adını boş bırakmayın."
 }
