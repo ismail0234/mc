@@ -79,5 +79,7 @@
     "10_GB": "10 GB",
     "12_GB": "12 GB",
     "14_GB": "14 GB",
-    "16_GB": "16 GB"
+    "16_GB": "16 GB",
+    "CORE_MOD_NORMAL": "Normal",
+    "CORE_MOD_FORGE": "Forge"
 }
