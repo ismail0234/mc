@@ -7,17 +7,7 @@
             "size": 0,
             "sha1": "185749c376f5018b6846895513a2c085e98fbeda",
             "path": "net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9.jar",
-            "url": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9.jar"
-        }
-    },
-    {
-        "name": "net.minecraft:launchwrapper:1.12",
-        "downloads":
-        {
-            "size": 0,
-            "sha1": "79454fc9601f58332b1241dc98842dd2ab4c18c6",
-            "path": "net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar",
-            "url": "http://files.minecraftforge.net/maven/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar"
+            "url": "https://github.com/ismail0234/minecraft-versions/raw/main/forge/1.8.9.jar"
         }
     },
     {
