@@ -176,7 +176,7 @@
         "name": "lzma:lzma:0.0.1",
         "downloads":
         {
-            "size": 0,
+            "size": 5762,
             "sha1": "3e275dac7f357cd7332ab3efc9040a7b99d80dee",
             "path": "lzma/lzma/0.0.1/lzma-0.0.1.jar",
             "url": "https://gauss.extollit.com/mvn/lzma/lzma/0.0.1/lzma-0.0.1.jar"
