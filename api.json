@@ -83,16 +83,21 @@
         "1.1": "1.1",
         "1.0": "1.0"
     },
-    "GameCoreMods": [
+    "GameCoreMods":
     {
-        "Name": "CORE_MOD_NORMAL",
-        "Versions": {}
-    },
-    {
-        "Name": "CORE_MOD_FORGE",
-        "Versions":
+        "CORE_MOD_NORMAL":
         {
-            "1.8.9": "1.8.9 - Forge"
+            "Name": "CORE_MOD_NORMAL",
+            "Versions":
+            {}
+        },
+        "CORE_MOD_FORGE":
+        {
+            "Name": "CORE_MOD_FORGE",
+            "Versions":
+            {
+                "1.8.9": "1.8.9 - Forge"
+            }
         }
-    }]
+    }
 }
