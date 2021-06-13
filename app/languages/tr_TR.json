@@ -66,5 +66,18 @@
     "TRAY_BALLON_TEXT": "Launcher Arkaplana Alındı.",
     "LAUNCHER_RAM_AMOUNT": "Ram Miktarı",
     "LAUNCHER_MOD_HINT": "Modlama Türü",
-    "GAME_OPENING_SHOW_HIDE": "Oyun Açılırken Launcher'ı Gizle"
+    "GAME_OPENING_SHOW_HIDE": "Oyun Açılırken Launcher'ı Gizle",
+    "AUTO": "Otomatik",
+    "512_MB": "512 MB",
+    "1_GB": "1 GB",
+    "2_GB": "2 GB",
+    "3_GB": "3 GB",
+    "4_GB": "4 GB",
+    "5_GB": "5 GB",
+    "6_GB": "6 GB",
+    "8_GB": "8 GB",
+    "10_GB": "10 GB",
+    "12_GB": "12 GB",
+    "14_GB": "14 GB",
+    "16_GB": "16 GB"
 }
