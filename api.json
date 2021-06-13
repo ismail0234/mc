@@ -83,8 +83,16 @@
         "1.1": "1.1",
         "1.0": "1.0"
     },
-    "SpigotVersions":
+    "GameCoreMods": [
     {
-        "1.4.6": "1.4.6"
-    }
+        "Name": "CORE_MOD_NORMAL",
+        "Versions": {}
+    },
+    {
+        "Name": "CORE_MOD_FORGE",
+        "Versions":
+        {
+            "1.1": "1.1 - Forge"
+        }
+    }]
 }
