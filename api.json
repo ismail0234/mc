@@ -165,6 +165,7 @@
             "Name": "CORE_MOD_FORGE",
             "Versions":
             {
+                "1.12.2": "1.12.2 - Forge",
                 "1.8.9": "1.8.9 - Forge"
             }
         }
