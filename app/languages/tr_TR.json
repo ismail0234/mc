@@ -63,5 +63,8 @@
     "LAUNCHER_INSTALLING": "Launcher v{version} yükleniyor...",
     "SERVER_CREATE_EMPTY_NAME": "Sunucu adını boş bırakmayın.",
     "TRAY_BALLON_TITLE": "BOT Benson MC Launcher",
-    "TRAY_BALLON_TEXT": "Launcher Arkaplana Alındı."
+    "TRAY_BALLON_TEXT": "Launcher Arkaplana Alındı.",
+    "LAUNCHER_RAM_AMOUNT": "Ram Miktarı",
+    "LAUNCHER_MOD_HINT": "Modlama Türü",
+    "GAME_OPENING_SHOW_HIDE": "Oyun Açılırken Launcher'ı Gizle"
 }
